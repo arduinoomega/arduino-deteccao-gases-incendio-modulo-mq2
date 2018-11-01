@@ -1,5 +1,4 @@
 # Detecção de gases e incêncio com Arduino e Módulo MQ-2
-Detecção de gases e incêncio
 
 Neste tutorial de hoje vamos tratar da segurança em cuidados preventivos como a prevenção de incêndios. Para isso, vamos utilizar um módulo MQ-2, um Arduino Uno, um buzzer e 2 leds.
 
